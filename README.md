@@ -9,13 +9,14 @@ It provides smart insights like **progress tracking, weak area detection, and st
 
 ### 🌙 Dark Mode Dashboard
 
-![Dark Mode](./screenshots/dark-mode.png)
+![Dark Mode](./dark-mode.png)
 
 ### ☀️ Light Mode Dashboard
 
-![Light Mode](./screenshots/light-mode.png)
+![Light Mode](./light-mode.png)
 
 ### 📊 Analytics & Charts
+![chart](./chart.png)
 
 
 ## ✨ Features
